@@ -9,7 +9,8 @@
 <body>
     <h2>Form Login</h2>
     <form action="" method="post">
-        UserName: <input type="text" name="name" />
+        UserName: <input type="text" name="name" /><br>
+        <button name="btnlogin">Login</button>
     </form>
 
 </body>
