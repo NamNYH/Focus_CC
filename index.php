@@ -10,6 +10,7 @@
     <h2>Form Login</h2>
     <form action="" method="post">
         UserName: <input type="text" name="name" />
+        PassWord: <input type="password" name="pass"/>
     </form>
 
 </body>
